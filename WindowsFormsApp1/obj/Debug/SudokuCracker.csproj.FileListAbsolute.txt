@@ -11,7 +11,6 @@ C:\Users\SeongYee Wong\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\
 E:\同步用\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
 E:\同步用\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
 E:\同步用\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
-E:\同步用\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SudokuCracker.csprojResolveAssemblyReference.cache
 E:\同步用\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SudokuCracker.WelcomeForm.resources
 E:\同步用\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
 E:\同步用\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SudokuCracker.csproj.GenerateResource.cache
@@ -19,3 +18,5 @@ E:\同步用\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SudokuCracker.csproj.Co
 E:\同步用\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 E:\同步用\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 E:\同步用\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SudokuCracker.FunctionForm.resources
+E:\同步用\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.CodeAnalysisLog.xml
+E:\同步用\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.lastcodeanalysissucceeded

@@ -19,6 +19,8 @@ namespace SudokuCracker
         public WelcomeForm()
 		{
             InitializeComponent();
+
+            //初始化教学用数独面板
             for (int row = 0; row < 9; row++)
             {
                 for (int column = 0; column < 9; column++)
