@@ -1725,7 +1725,7 @@ namespace SudokuCracker
             writer.Write(currenttitle);
 
             //写入谜题
-            currenttitle = "\r\n当前谜题：/Current:\r\n";
+            currenttitle = "\r\n当前谜题：/Current puzzle:\r\n";
             string currentwriting = currenttitle + Sudoku.ArrayToString(puzzlerecord[puzzlestepindex - 1]);
             writer.Write(currentwriting);
 
